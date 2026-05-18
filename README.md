@@ -1,2 +1,7 @@
-# demo-bentancur-inmobiliaria
-Demo web para Bentancur Inmobiliaria — diseñada por eterlab.
+# Bentancur Inmobiliaria
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
